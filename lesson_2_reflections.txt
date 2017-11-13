@@ -1,13 +1,14 @@
 What happens when you initialize a repository? Why do you need to do it?
 it's necessary because the 'log' for the version history will be initialized
 
-
-
-
-
-
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+the staging area is, how the name supose the area on which's the light on.
+It puts files in the focus of git and so its been able to do its job on this and only on this files
+
+
+
+this is a test
 
 How can you use the staging area to make sure you have one commit per logical
 change?
