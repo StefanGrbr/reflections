@@ -6,12 +6,11 @@ What value do you think it offers?
 the staging area is, how the name supose the area on which's the light on.
 It puts files in the focus of git and so its been able to do its job on this and only on this files
 
-
-
-this is a test
-
 How can you use the staging area to make sure you have one commit per logical
 change?
+If i change more than one file for the logical change, i can gather one file after the other at the staging area
+
+
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
