@@ -1,24 +1,24 @@
 How did viewing a diff between two versions of a file help you see the bug that was introduced?
-It helps me because I can see quick the simple typo fault that was responsive for the bug
+It helps me because I can see quickly the simple typo fault that was responsive for the bug
 
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 It prevents me from doing the same mistakes too often by recognizing the process of my scripting.
 Also I can see the steps I took on my journey to the final script more clearly
 
 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
-a pro is, to have the control about the units you choose and so about the logical structure of the version-control
-a con is, that it is a  bit more work on the fly for you, but this - and there is another pro - will lead to a better structure in mind and work on the long term
-another pro is that the control is on your side - no stupid changes you made within some experiments will be save for nothing
+A pro is, to have the control about the units you choose and so about the logical structure of the version-control
+A con is, that it is a  bit more work on the fly for you, but this - and this is another pro - will lead to a better structure in mind and work on the long term
+another pro is that the control is on your side - no stupid changes you made within some experiments will be saved for nothing
 
 Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
 I think git is a bit more specific in its aims (for programmers) and maybe a bit more professional, while google may be mor general for more peaople and different uses
 
 How can you use the commands git log and git diff to view the history of files?
-git log will give you the full history of a repository and with git diff you can have a more precise look at this history by comparing two, ore maybe more commit-states
+Git log will give you the full history of a repository and with git diff you can have a more precise look at this history by comparing two, ore maybe more commit-states
 
 How might using version control make you more confident to make changes that could break something?
-because you know that you can always go back to the place where everything was fine!
+Because you know that you can always go back to the place where everything was fine!
 
 Now that you have your workspace set up, what do you want to try using Git for?
-i will try a little test-project to test it and to become familiar with its basic fuctionality
+I will try a little test-project to test it and to become familiar with its basic fuctionality
 
