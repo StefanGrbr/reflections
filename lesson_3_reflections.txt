@@ -4,3 +4,11 @@ or on which I will work with other people or maybe if I want the code to be revi
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 I think in this case github takes a bit of the functionality of the staging area. So I can collect some changes online and have the control when I finished all the changes to to add them to my offline version.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork is a clone of a repository on github from another acount on github
+Clone is a copy of a repository (local or on github) but not from one github acount directly to another github acount (this is a fork :-))
+Branch is a part of a repository( in difference to the above it is not all but just one branch of the whole tree)
+I will use a fork, if I want to work on a project on github that is not my own project;
+a clone, if I want to work with a repository from github on my own computer.
+
