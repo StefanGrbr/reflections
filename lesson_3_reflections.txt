@@ -1,3 +1,6 @@
 When would you want to use a remote repository rather than keeping all your work local?
 I will use this for projects which I like to edit on several different Computers 
 or on which I will work with other people or maybe if I want the code to be reviewed by someone else.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+I think in this case github takes a bit of the functionality of the staging area. So I can collect some changes online and have the control when I finished all the changes to to add them to my offline version.
